@@ -4,4 +4,8 @@ p {
 body {
     background-color: black;
 }
-
+.center {
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 350px 0;
+}
