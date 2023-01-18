@@ -3,8 +3,6 @@ p, a {
 }
 body {
     background-color: black;
-    outline: 1px solid #ffffff;
-    outline-offset: -1px;
     display: flex;
     flex-direction: column;
     justify-content: center;
